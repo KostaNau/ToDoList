@@ -31,7 +31,7 @@ from utils import get_input_function
 ENCODING = 'utf-8'
 JSON_INDENT = 4
 
-__author__ = 'sobolevn & Konstanin Naumov'
+__author__ = 'sobolevn &  kostanau'
 
 
 class BaseCommand(object):

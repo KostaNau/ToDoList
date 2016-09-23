@@ -30,7 +30,7 @@ from utils import get_input_function
 ENCODING = 'utf-8'
 JSON_INDENT = 4
 
-__author__ = 'sobolevn & Konstantin Naumov'
+__author__ = 'sobolevn &  kostanau'
 
 
 def get_routes():

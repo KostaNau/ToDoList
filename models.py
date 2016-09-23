@@ -4,7 +4,7 @@
 This module contains all the models we work with.
 """
 
-__author__ = 'sobolevn'
+__author__ = 'sobolevn, kostanau'
 
 from utils import get_input_function
 
